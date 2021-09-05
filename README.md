@@ -1,5 +1,5 @@
 # wifi-hacking-automation-v2.0
-The more advanced UI changes from v1.0 and Additional Functions that let you hack your Neighbour's Wifi
+The more advanced UI changes from v1.0 and Additional Functions that let you hack your Neighbour's Wifi.
 This program is automation of wifi hacking.
 ## Documentation
 
